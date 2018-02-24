@@ -247,3 +247,4 @@ if __name__ == '__main__':
     gene_sub()
     gene_mul()
     gene_div()
+    print()
