@@ -1,2 +1,6 @@
 
 ### About
+
+```
+python tran.py
+```
